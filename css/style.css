@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: orange;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+p {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+
+ul {
+    color: white;
+}
