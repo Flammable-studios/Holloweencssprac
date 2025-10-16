@@ -11,6 +11,14 @@ h6 {
     color: orange;
     font-style: oblique;
     text-decoration: underline;
+    text-align: center;
+    color: black;
+    background-color: orangered;
+    border-radius: 10px;
+    padding: 10px;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: white;
 }
 
 p {
@@ -23,4 +31,22 @@ ol {
 
 ul {
     color: white;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.left {
+    display: block;
+    margin-left: 0%;
+    width: 50%;
+}
+
+.right {
+    display: block;
+    margin-left: 50%;
+    width: 50%;
 }
